@@ -1,4 +1,5 @@
 print("Добро пожаловать!")
+print("")
 print("Welcome!")
 print("Willokommen!")
 print("")
